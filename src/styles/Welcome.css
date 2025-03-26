@@ -1,0 +1,44 @@
+.welcome-container {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
+  .welcome-container h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .welcome-container p {
+    font-size: 14px;
+    color: #6c757d;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  .create-account-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #6f42c1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 15px;
+  }
+  
+  .login-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #e6d6f9;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }

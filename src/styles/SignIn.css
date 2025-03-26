@@ -1,0 +1,49 @@
+.signin-container {
+    padding: 20px;
+  }
+  
+  .signin-container h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .signin-container p {
+    font-size: 14px;
+    color: #6c757d;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-size: 14px;
+    color: #6f42c1;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  ::placeholder {
+    color: #6c757d;
+  }
+  
+  .login-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #ced4da;
+    color: #343a40;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
